@@ -1,4 +1,6 @@
 # selenium-dotnet-core-example
-Download project
-Build project (Dependencies should be updated automatically)
-Run tests directly from Visual Studio
+Example test solution which uses xUnit, Fluent Assertions, PageObject pattern and Fluent Interface
+
+* Download project
+* Build project (Dependencies should be updated automatically)
+* Run tests directly from Visual Studio
